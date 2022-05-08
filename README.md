@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandiemann
 - 👀 I’m interested in building new softwares using cutting edge technologies
 - 🌱 I’m currently learning data-driven & applied machine learning processes
-- 💞️ I actively participate & contribute to AI-for-good projects in order solve real world problems and looking forward to collaborate on numerous open-source projects 
+- 💞️ I actively participate & contribute to AI-for-good projects in order solve real world problems and looking forward to collaborate on numerous open-source projects (DAGsHub profile - https://dagshub.com/sandiemann)
 - 📫 reach me at **sanchit.bhavsar@gmail.com** or connect via [Linkedin](https://www.linkedin.com/in/sanchit-bhavsar-2aa0ba92/)
 
 <!---
